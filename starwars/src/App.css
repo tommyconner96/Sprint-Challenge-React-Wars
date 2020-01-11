@@ -1,6 +1,9 @@
-.App {
+/* .App {
   text-align: center;
-}
+} 
+
+Took this out just for fun and put it back in via style components
+*/
 .Header {
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
